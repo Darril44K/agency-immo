@@ -1,6 +1,7 @@
 # AgencyImmo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+This project using tailwind css (https://tailwindcss.com/)
 
 ## Development server
 
